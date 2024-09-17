@@ -1,0 +1,14 @@
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\indexers\indexers\bin\Debug\net8.0\indexers.exe
+C:\Users\Abdullah\source\repos\indexers\indexers\bin\Debug\net8.0\indexers.deps.json
+C:\Users\Abdullah\source\repos\indexers\indexers\bin\Debug\net8.0\indexers.runtimeconfig.json
+C:\Users\Abdullah\source\repos\indexers\indexers\bin\Debug\net8.0\indexers.dll
+C:\Users\Abdullah\source\repos\indexers\indexers\bin\Debug\net8.0\indexers.pdb
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.dll
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\refint\indexers.dll
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.pdb
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\indexers.genruntimeconfig.cache
+C:\Users\Abdullah\source\repos\indexers\indexers\obj\Debug\net8.0\ref\indexers.dll
